@@ -1,0 +1,6 @@
+{
+    "workbench.experimental.settingsProfiles.enabled": true,
+    "workbench.experimental.settingsProfiles.associations": {
+        "your-project-folder-path": "rust"
+    }
+}
